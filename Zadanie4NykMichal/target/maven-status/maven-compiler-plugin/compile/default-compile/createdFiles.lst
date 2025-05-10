@@ -1,0 +1,6 @@
+com\tss\Zadanie4NykMichal\Zadanie4NykMichalApplication.class
+com\tss\entities\Customer.class
+com\tss\config\SecurityConfig.class
+com\tss\repositories\CustomerRepository.class
+com\tss\controllers\CustomerController.class
+com\tss\Zadanie4NykMichal\ServletInitializer.class
