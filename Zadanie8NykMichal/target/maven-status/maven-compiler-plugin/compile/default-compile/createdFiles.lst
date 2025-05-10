@@ -1,0 +1,5 @@
+com\tss\Zadanie8NykMichal\Zadanie8NykMichalApplication.class
+com\tss\services\ProductService.class
+com\tss\controllers\ProductController.class
+com\tss\to\Product.class
+com\tss\Zadanie8NykMichal\ServletInitializer.class
