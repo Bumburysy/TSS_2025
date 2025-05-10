@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tss.Zadanie5NykMichal.Zadanie5NykMichalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.37 s - in com.tss.Zadanie5NykMichal.Zadanie5NykMichalApplicationTests

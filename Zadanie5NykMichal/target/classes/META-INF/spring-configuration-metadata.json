@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.authdatasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.tss.config.ApplicationConfig",
+      "sourceMethod": "dataSourceAuth()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

@@ -1,0 +1,8 @@
+com\tss\controllers\UserController.class
+com\tss\entities\User.class
+com\tss\Zadanie5NykMichal\ServletInitializer.class
+com\tss\config\ApplicationConfig.class
+META-INF\spring-configuration-metadata.json
+com\tss\config\SecurityConfigJDBC.class
+com\tss\repositories\UserRepository.class
+com\tss\Zadanie5NykMichal\Zadanie5NykMichalApplication.class
