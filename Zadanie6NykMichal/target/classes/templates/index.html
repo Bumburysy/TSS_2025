@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>Strona główna</title>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script type="text/javascript" th:src="@{/functionsWebSockets.js}"></script>
+        <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    </head>
+    <body>
+        <h1>Zadanie 6</h1>
+        <h2>Nyk Michal</h2>
+        <div>
+            <form action="">
+                <input onclick="doSend(messageTextID.value)" value="Wyślij..." type="button"/>
+                <input id="messageTextID" name="messageText" value="Hello WebSocket!" type="text"/><br/>
+                <input id="messageStatusID" name="messageStatus" value="...." type="text" size="60"/><br/>
+            </form>
+            
+            <h2 style="text-align: center;">Wykres na podstawie danych WebSocket/JSON</h2><br/>
+            <div style="text-align: center;">
+                <div id="chartContainer" style="height: 300px; width: 50%"></div>
+            </div>
+            <a th:href="@{/logout}">Wyloguj</a>
+        </div>
+    </body>
+</html>

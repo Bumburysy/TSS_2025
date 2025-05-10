@@ -1,0 +1,5 @@
+com\tss\websockets\WebSocketEndpointJSON.class
+com\tss\Zadanie6NykMichal\Zadanie6NykMichalApplication.class
+com\tss\config\SecurityConfig.class
+com\tss\Zadanie6NykMichal\ServletInitializer.class
+com\tss\config\WebSocketConfig.class
