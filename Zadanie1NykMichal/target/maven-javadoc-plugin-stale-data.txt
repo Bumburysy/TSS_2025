@@ -1,0 +1,83 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Michau/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.7.9/spring-boot-starter-web-2.7.9.jar;C:/Users/Michau/.m2/repository/org/springframework/boot/spring-boot-starter/2.7.9/spring-boot-starter-2.7.9.jar;C:/Users/Michau/.m2/repository/org/springframework/boot/spring-boot/2.7.9/spring-boot-2.7.9.jar;C:/Users/Michau/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.7.9/spring-boot-autoconfigure-2.7.9.jar;C:/Users/Michau/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.7.9/spring-boot-starter-logging-2.7.9.jar;C:/Users/Michau/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar;C:/Users/Michau/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar;C:/Users/Michau/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.17.2/log4j-to-slf4j-2.17.2.jar;C:/Users/Michau/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar;C:/Users/Michau/.m2/repository/org/slf4j/jul-to-slf4j/1.7.36/jul-to-slf4j-1.7.36.jar;C:/Users/Michau/.m2/repository/org/yaml/snakeyaml/1.30/snakeyaml-1.30.jar;C:/Users/Michau/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.7.9/spring-boot-starter-json-2.7.9.jar;C:/Users/Michau/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.5/jackson-databind-2.13.5.jar;C:/Users/Michau/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.5/jackson-annotations-2.13.5.jar;C:/Users/Michau/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.5/jackson-core-2.13.5.jar;C:/Users/Michau/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.13.5/jackson-datatype-jdk8-2.13.5.jar;C:/Users/Michau/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.5/jackson-datatype-jsr310-2.13.5.jar;C:/Users/Michau/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.13.5/jackson-module-parameter-names-2.13.5.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-web/5.3.25/spring-web-5.3.25.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-beans/5.3.25/spring-beans-5.3.25.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-webmvc/5.3.25/spring-webmvc-5.3.25.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-aop/5.3.25/spring-aop-5.3.25.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-context/5.3.25/spring-context-5.3.25.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-expression/5.3.25/spring-expression-5.3.25.jar;C:/Users/Michau/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/2.7.9/spring-boot-starter-tomcat-2.7.9.jar;C:/Users/Michau/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar;C:/Users/Michau/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.71/tomcat-embed-core-9.0.71.jar;C:/Users/Michau/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/9.0.71/tomcat-embed-el-9.0.71.jar;C:/Users/Michau/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.71/tomcat-embed-websocket-9.0.71.jar;C:/Users/Michau/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-core/5.3.25/spring-core-5.3.25.jar;C:/Users/Michau/.m2/repository/org/springframework/spring-jcl/5.3.25/spring-jcl-5.3.25.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Michau/Documents/Studia/VI Semestr/TSS/Zadanie1NykMichal/src/main/java;C:/Users/Michau/Documents/Studia/VI Semestr/TSS/Zadanie1NykMichal/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Michau/Documents/Studia/VI Semestr/TSS/Zadanie1NykMichal/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Zadanie1NykMichal 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Zadanie1NykMichal 0.0.1-SNAPSHOT API'
+com.example.Zadanie1NykMichal
+com.tss.controllers
+'C:/Users/Michau/Documents/Studia/VI Semestr/TSS/Zadanie1NykMichal/src/main/java/com/example/Zadanie1NykMichal/ServletInitializer.java'
+'C:/Users/Michau/Documents/Studia/VI Semestr/TSS/Zadanie1NykMichal/src/main/java/com/example/Zadanie1NykMichal/Zadanie1NykMichalApplication.java'
+'C:/Users/Michau/Documents/Studia/VI Semestr/TSS/Zadanie1NykMichal/src/main/java/com/tss/controllers/MainController.java'
+C:\Users\Michau\.m2\repository\org\springframework\boot\spring-boot-starter-web\2.7.9\spring-boot-starter-web-2.7.9.jar = 1740833867034
+C:\Users\Michau\.m2\repository\org\springframework\boot\spring-boot-starter\2.7.9\spring-boot-starter-2.7.9.jar = 1740833867132
+C:\Users\Michau\.m2\repository\org\springframework\boot\spring-boot\2.7.9\spring-boot-2.7.9.jar = 1740833867336
+C:\Users\Michau\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.7.9\spring-boot-autoconfigure-2.7.9.jar = 1740833867340
+C:\Users\Michau\.m2\repository\org\springframework\boot\spring-boot-starter-logging\2.7.9\spring-boot-starter-logging-2.7.9.jar = 1740833867131
+C:\Users\Michau\.m2\repository\ch\qos\logback\logback-classic\1.2.11\logback-classic-1.2.11.jar = 1740833867129
+C:\Users\Michau\.m2\repository\ch\qos\logback\logback-core\1.2.11\logback-core-1.2.11.jar = 1740833867222
+C:\Users\Michau\.m2\repository\org\apache\logging\log4j\log4j-to-slf4j\2.17.2\log4j-to-slf4j-2.17.2.jar = 1740833867216
+C:\Users\Michau\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar = 1740833867323
+C:\Users\Michau\.m2\repository\org\slf4j\jul-to-slf4j\1.7.36\jul-to-slf4j-1.7.36.jar = 1740833867293
+C:\Users\Michau\.m2\repository\org\yaml\snakeyaml\1.30\snakeyaml-1.30.jar = 1740833867317
+C:\Users\Michau\.m2\repository\org\springframework\boot\spring-boot-starter-json\2.7.9\spring-boot-starter-json-2.7.9.jar = 1740833867372
+C:\Users\Michau\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.5\jackson-databind-2.13.5.jar = 1740833867431
+C:\Users\Michau\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.5\jackson-annotations-2.13.5.jar = 1740833867405
+C:\Users\Michau\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.5\jackson-core-2.13.5.jar = 1740833867425
+C:\Users\Michau\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.13.5\jackson-datatype-jdk8-2.13.5.jar = 1740833867422
+C:\Users\Michau\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.13.5\jackson-datatype-jsr310-2.13.5.jar = 1740833867526
+C:\Users\Michau\.m2\repository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.13.5\jackson-module-parameter-names-2.13.5.jar = 1740833867486
+C:\Users\Michau\.m2\repository\org\springframework\spring-web\5.3.25\spring-web-5.3.25.jar = 1740833867540
+C:\Users\Michau\.m2\repository\org\springframework\spring-beans\5.3.25\spring-beans-5.3.25.jar = 1740833867518
+C:\Users\Michau\.m2\repository\org\springframework\spring-webmvc\5.3.25\spring-webmvc-5.3.25.jar = 1740833867540
+C:\Users\Michau\.m2\repository\org\springframework\spring-aop\5.3.25\spring-aop-5.3.25.jar = 1740833867606
+C:\Users\Michau\.m2\repository\org\springframework\spring-context\5.3.25\spring-context-5.3.25.jar = 1740833867625
+C:\Users\Michau\.m2\repository\org\springframework\spring-expression\5.3.25\spring-expression-5.3.25.jar = 1740833867655
+C:\Users\Michau\.m2\repository\org\springframework\boot\spring-boot-starter-tomcat\2.7.9\spring-boot-starter-tomcat-2.7.9.jar = 1740833867624
+C:\Users\Michau\.m2\repository\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar = 1740833867625
+C:\Users\Michau\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\9.0.71\tomcat-embed-core-9.0.71.jar = 1740833867798
+C:\Users\Michau\.m2\repository\org\apache\tomcat\embed\tomcat-embed-el\9.0.71\tomcat-embed-el-9.0.71.jar = 1740833867708
+C:\Users\Michau\.m2\repository\org\apache\tomcat\embed\tomcat-embed-websocket\9.0.71\tomcat-embed-websocket-9.0.71.jar = 1740833867711
+C:\Users\Michau\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar = 1740833867872
+C:\Users\Michau\.m2\repository\org\springframework\spring-core\5.3.25\spring-core-5.3.25.jar = 1740833868288
+C:\Users\Michau\.m2\repository\org\springframework\spring-jcl\5.3.25\spring-jcl-5.3.25.jar = 1740833868273
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\src\main\java = 1740833466214
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\generated-sources\annotations = 1741592050829
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\allclasses-index.html = 1741592057548
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\allpackages-index.html = 1741592057551
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\element-list = 1741592057491
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\help-doc.html = 1741592057572
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\index-all.html = 1741592057565
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\index.html = 1741592057537
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\jquery-ui.overrides.css = 1741592057603
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\member-search-index.js = 1741592057556
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\module-search-index.js = 1741592057552
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\overview-summary.html = 1741592057567
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\overview-tree.html = 1741592057533
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\package-search-index.js = 1741592057554
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\script.js = 1741592057575
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\search.js = 1741592057578
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\stylesheet.css = 1741592057574
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\tag-search-index.js = 1741592057557
+C:\Users\Michau\Documents\Studia\VI Semestr\TSS\Zadanie1NykMichal\target\apidocs\type-search-index.js = 1741592057555

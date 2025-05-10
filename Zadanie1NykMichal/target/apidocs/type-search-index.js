@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.tss.controllers","l":"MainController"},{"p":"com.example.Zadanie1NykMichal","l":"ServletInitializer"},{"p":"com.example.Zadanie1NykMichal","l":"Zadanie1NykMichalApplication"}];updateSearchResults();
