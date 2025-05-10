@@ -1,0 +1,7 @@
+com\tss\entities\Product.class
+com\tss\Zadanie7NykMichal\ServletInitializer.class
+com\tss\config\ApplicationConfig.class
+com\tss\Zadanie7NykMichal\Zadanie7NykMichalApplication.class
+com\tss\controllers\ApplicationController.class
+com\tss\services\SchedulerService.class
+com\tss\repositories\ProductRepository.class
