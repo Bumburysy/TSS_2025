@@ -1,0 +1,8 @@
+com\tss\repositories\ICityReport.class
+com\tss\repositories\CityReport.class
+com\tss\Zadanie3NykMichal\Zadanie3NykMichalApplication.class
+com\tss\components\SessionComponent.class
+com\tss\controllers\CityController.class
+com\tss\repositories\CityRepository.class
+com\tss\Zadanie3NykMichal\ServletInitializer.class
+com\tss\entities\City.class
